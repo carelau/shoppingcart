@@ -69,6 +69,7 @@ align-items: start;
 
  .column-left{
    float: left;
+   flex-wrap: nowrap;
    width: 33.333%;
  }
 
