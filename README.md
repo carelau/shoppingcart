@@ -1,3 +1,6 @@
+This is a simple shopping cart, with the ability to add or remove items to cart. When there are no items in shopping cart, the totalprice section displays 'ShoppingCart is currently empty'. The cart icon in the header displays the number of total items in the cart.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
